@@ -1,0 +1,27 @@
+{
+  "name": "micro-service",
+  "version": "1.0.0",
+  "description": "microservice using nodejs and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amodmulay/node-micro-service.git"
+  },
+  "keywords": [
+    "nidejs\u001b[D\u001b[D\u001b[D\u001b[o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D",
+    "microservice"
+  ],
+  "author": "amod mulay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amodmulay/node-micro-service/issues"
+  },
+  "homepage": "https://github.com/amodmulay/node-micro-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
